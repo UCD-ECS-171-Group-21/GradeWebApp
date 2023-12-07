@@ -7,4 +7,14 @@ In this repository, you will find the following folders:
 - **Figures**: Here are all the figures and metrics utilized during the development of our models.
 - **Models**: Contains all the models and notebooks developed throughout this project. 'random forest.ipynb' is our final model.
 
-Additional 'README' files are available in the 'Models' and 'Grade Web App' folders for further guidance.
+**IMPORTANT NOTICE**
+Please ensure that you have the following packages installed for everything to function correctly:
+- pandas
+- sklearn
+- matplotlib
+- warnings
+- seaborn
+- numpy
+- plotly
+- IPython
+- Flask
